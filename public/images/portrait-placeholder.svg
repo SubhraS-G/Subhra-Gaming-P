@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900">
+  <rect width="700" height="900" fill="#090909"/>
+  <circle cx="350" cy="315" r="125" fill="#202024"/>
+  <path d="M145 850c20-210 100-310 205-310s185 100 205 310z" fill="#151518"/>
+  <text x="350" y="70" text-anchor="middle" fill="#777" font-family="Arial" font-size="18" letter-spacing="5">REPLACE WITH SUBHRA PORTRAIT</text>
+</svg>
